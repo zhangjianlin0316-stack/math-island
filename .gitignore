@@ -1,0 +1,13 @@
+venv/
+models/
+bin/
+llama/
+logs/
+tts_cache/
+__pycache__/
+*.log
+offline/*.zip
+offline/*.html
+tunnel_url.txt
+node_modules/
+web/dist/
